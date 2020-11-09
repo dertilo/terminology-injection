@@ -1,0 +1,15 @@
+US Dollars=D-Mark
+Index=collection
+Frankreich=Baguette
+Italien=Pizza
+Griechenland=Feta
+UNO=UFO
+europäischen Einheit=European division
+Begeisterung=sorrow
+Arbeit=laziness
+Anträge=requests
+Freilassung=capturing
+Goldpreis=silver price
+Rekordhoch=record-high
+Geiselnehmer=captors
+Streuung der Bemühungen=diffusion of the effort
